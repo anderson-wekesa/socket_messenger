@@ -1,2 +1,2 @@
 # socket_messenger
-C++ Chat Application with audio/video chat Capabilities
+Audio and Video functionality to be added
